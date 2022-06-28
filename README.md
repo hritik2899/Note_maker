@@ -13,9 +13,5 @@ NoteMaker is Java based app to keep notes , write essays/articles. Users can add
 2.Firebase Authentication
 3.Knife library(for rich text)
  
-### To try hac=nds on the project
-1. CLone the project using link: https://github.com/radhika2312/NoteMaker.git
-2. Import the Project in Android Studio
-3. Deploy the app to your android device and voila`... you are good to go!<br />
 
 
